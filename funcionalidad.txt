@@ -1,1 +1,3 @@
 Linea para el ejercicio 1 de mi proyecto
+
+22/10/2025 13:04 Modifico funcionalidad directamente en main

@@ -1,2 +1,4 @@
 Estas son las notas del proyecto
 Añado algo para ver las diferencias
+
+22/10/2025 12:49 un cambio en GItHub (main) directamente en la web

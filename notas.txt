@@ -3,3 +3,5 @@ Añado algo para ver las diferencias
 
 22/10/2025 12:49 un cambio en GItHub (main) directamente en la web
 22/10/2025 12:54 un cambio en GItHub (main) directamente en la web, esta vez para ver la diferencia con entre merge origin y pull
+
+22/10/2025 12:59 Cambio menor para Ejer7 con rebase
